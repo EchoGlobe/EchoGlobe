@@ -1,5 +1,5 @@
 # Welcome To Echo Globe!!
-![Globe Icon](https://link-to-your-icon.png)
+![Globe Icon]([https://link-to-your-icon.png](https://echoglobe.github.io/asset/image/eg.png))
 
 Echo-Globe is a web-based chat application that allows you to create and join chat rooms to exchange text messages, photos, videos, and files in real-time. Your privacy and security are our top priority, and we've designed Echo-Globe with the following user-friendly features:
 
